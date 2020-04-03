@@ -20,30 +20,33 @@ Current Project Status:
 - full HW schematics and system component's description available on "EAR System Developer's HW Guide", portuguese only version
 - PCB Gerbers available, Single Side PTH version, Motor driver on relay option only. Time and size were underestimated because we no longer use these old technologies. Released on March 30, 2020.
 - Mech prototype phase 2 aproved, torque is OK and current is low.
+- Gerbers available of single sided boards on PTH components pending. Time and size were underestimated because we no longer use these old technologies. 
+- EAR System Developer's SW Guide released on March 30, 2020.
+- EAR Hardware prototypes finished and tested OK on April 2, 2020. Relay driver was used.
+- EAR FW00 - firmware for HW testing purposes released on April 3, 2020.
+
 
 Pending:
-- Gerbers of single sided boards on PTH components pending. Time and size were underestimated because we no longer use these old technologies. Estimated release on March 30, 2020.
-- EAR System Developer's SW Guide expected release on March 30, 2020.
 - Final mechanical prototype expected for Week 14
 
 Special thanks to all people that made this project real!
 It's impossible to list all names involved, I apologize for forgetting someone.
 The partial list follows:
 
-Project Contributors:
+Project Contributors, added as entered EAR Project:
+- Celso Monteiro: eletronics design, system conception and documentation.
+- Joannes Berque (FR): first design idea.
 - Diego Padilha, Lucas Pianizzer: mechanical design and prototyping. 
 - Marcelo Pires: electronic CAD, schematics capture & PCB Design.
-- Celso Monteiro: eletronics design, system conception and documentation.
 - Nicolai Rutkevich: mechanical concepts.
+- Suzuki: system concepts.
 - Gustavo Ortenzi: motor drive alteratives.
-- João Cardoso e Leonardo Afonso: Kicad Capture for Open Hardware.
+- Bruno Afogliatto: decontamination concepts.
 - Rodrigo Azevedo: organized Github Project.
 - Douglas Esteves: interface with other projects.
-- Bruno Afogliatto: decontamination concepts.
+- João Cardoso e Leonardo Afonso: Kicad Capture for Open Hardware.
 - Andre Novelli e Victor Acioly: AMBU bags replacement.
-- Suzuki: system concepts.
-- Joannes Berque (FR): first design idea.
-- MIT E-Vent: human requirements and system conception ideas.
+- Flavio Alves: firmware development.
 
 Healthcare professionals involved:
 - Angelica Mammana M.D. helped stablishing specs and performed crytical analysis.
@@ -55,6 +58,9 @@ Project supporters:
 - Fabio Knihs.
 - Norberto Tomio.
 - Gabriel Casagrande.
+
+Project references:
+- MIT E-Vent: human requirements and system conception ideas.
 
 Special thanks to Tissa and Leo, for their unlimited support and to God that inspired and guided me all the time.
 
